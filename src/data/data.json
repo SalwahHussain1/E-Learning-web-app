@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Learn Anytime, Anywhere with E-Learning!",
+    "paragraph": "Our platform ensures that knowledge knows no bounds, allowing individuals to embark on their educational journey anytime, anywhere. Embracing the power of technology"
+  },
+  "About": {
+    "paragraph": "Our mission is to provide accessible, high-quality education that transcends geographical boundaries. We aim to foster a dynamic learning environment that nurtures curiosity, critical thinking, and lifelong skill we believe in the power of knowledge to shape the future and empower individuals globally.",
+    "Why": [
+      "Quality Content and Expertise:",
+      "Flexible Learning at Your Pace",
+      "Diverse Range of Courses",
+      "Cutting-Edge Technology "
+    ],
+    "Why2": [
+      "Proven Track Record",
+      "User-Friendly Interface",
+      "Continuous Updates and Relevance",
+      "Global Community & Networking"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "WordPress Services",
+      "text": "Our range of services is designed to empower businesses, bloggers, and entrepreneurs on the WordPress platform. Discover how we can enhance your online presence and simplify your WordPress experience."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Cart service",
+      "text": "Our Cart Service is designed to enhance your online shopping experience, providing a user-friendly and efficient way to manage your purchases. Here's what our Cart Service offers:"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cloud service",
+      "text": "We offer a comprehensive suite of cloud solutions designed to empower businesses, enhance efficiency, and foster innovation. Discover how our cloud services can transform your digital landscape."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "language learning",
+      "text": "Our language services are designed to make language learning accessible, enjoyable, and effective. Explore a range of offerings tailored to meet your language learning goals."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Plane Service",
+      "text": "Our service plans are designed to provide a tailored and enriching educational experience for learners at every stage. Choose the plan that aligns with your goals and unlocks a world of knowledge."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Pie Chart Service",
+      "text": "Pie Chart Service is a bit broad, and additional details would be helpful to provide more accurate information. Below is a general overview assuming you're referring to a service related to creating or utilizing pie charts for educational purposes:"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Enrolling in coding courses on this e-learning platform was a game-changer for me. The interactive lessons and hands-on projects accelerated my learning. I've landed my dream job, and I owe it all to this fantastic platform.\"",
+      "name": "Saad"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I'm a lifelong learner, and this e-learning site has become my go-to. The diverse range of courses keeps me engaged, and the user-friendly interface makes navigating through lessons a breeze. Learning has never been this enjoyable!.\"",
+      "name": "Rit"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"As an educator, I value continuous professional development. This e-learning platform offers insightful courses that have enriched my teaching methods. The content is top-notch, and I appreciate the flexibility to learn at my own pace.\"",
+      "name": "Rehan"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Being a busy professional, finding time for learning is challenging. This e-learning platform's flexible schedule and bite-sized lessons allow me to acquire new skills without disrupting my work routine. It's a game-changer for professionals on the go.\"",
+      "name": "Rabia"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Transitioning to a new career seemed daunting, but this e-learning platform eased the process. The career-oriented courses provided practical insights, and the supportive community helped me navigate this exciting journey. I'm now thriving in my new field.\"",
+      "name": "Ali"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Balancing parenting and personal growth is demanding, but this e-learning site has made it feasible. My child loves the interactive lessons, and I appreciate the platform's commitment to providing quality education in a family-friendly environment\"",
+      "name": "Salwah"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "sir basit",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Salwah",
+      "job": "Senior Designer and Developer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Rabia",
+      "job": "Designer and Developer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ritika",
+      "job": "senior Developer"
+    }
+  ],
+  "Contact": {
+    "address": "ABC ",
+    "phone": "+92**********",
+    "email": "ABC@learning.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Private and Group Chats:",
+      "text": "Support both one-on-one private messaging and group chats. Private chats can facilitate direct communication"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Targeted Announcements",
+      "text": "Segment announcements based on user roles, courses enrolled, or other relevant criteria to ensure that users receive information that is most relevant to them."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Social Learning",
+      "text": "Incorporate social media-like features such as profiles, followers, and newsfeeds to create a sense of community among learners."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Responsive Design:",
+      "text": "Ensure that your e-learning platform is accessible across various devices, such as desktops, tablets, and smartphones. A responsive design ensures a seamless user experience on different screen sizes.."
+    }
+  ]
+}
